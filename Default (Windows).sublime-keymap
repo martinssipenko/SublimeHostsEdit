@@ -1,0 +1,3 @@
+[
+ 	{ "keys": ["ctrl+shift+h"], "command": "open_hosts_file" }
+]

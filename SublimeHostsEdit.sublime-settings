@@ -1,0 +1,6 @@
+{
+   //hosts file location
+   //windows: "C:/Windows/System32/drivers/etc/hosts"
+   //unix: "/etc/hosts"
+   "hosts_file_location": "C:/Windows/System32/drivers/etc/hosts"
+}
