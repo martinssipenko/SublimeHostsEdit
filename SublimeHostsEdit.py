@@ -4,4 +4,4 @@ settings = sublime.load_settings('SublimeHostsEdit.sublime-settings')
 
 class OpenHostsFileCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
-		self.view.window().open_file(settings.get('hosts_file_location'))
+		self.view.window().open_file(settings.get(sublime.platform()+'_hosts_file_location'))

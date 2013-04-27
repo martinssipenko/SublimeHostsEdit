@@ -1,6 +1,6 @@
 {
-   //hosts file location
-   //windows: "C:/Windows/System32/drivers/etc/hosts"
-   //unix: "/etc/hosts"
-   "hosts_file_location": "C:/Windows/System32/drivers/etc/hosts"
+   //PATH to `hosts` file depending on system
+   "windows_hosts_file_location": "C:/Windows/System32/drivers/etc/hosts",
+   "linux_hosts_file_location": "/etc/hosts",
+   "osx_hosts_file_location": "/private/etc/hosts"
 }
