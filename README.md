@@ -4,7 +4,7 @@ Open your `hosts` file quickly and have syntax highlighting for it.
 
 ## Usage
 
- - Simply hit `Ctrl+Shift+H` (on Windows and Linux) or `⌘+Shift+H` (on OS X) to bring up your `hsots` file
+ - Simply hit `Ctrl+Shift+H` (on Windows and Linux) or `⌘+Shift+H` (on OS X) to bring up your `hosts` file
  - Or you can open it via `Command Palette`, hit `Ctrl+Shift+P` and choose `Open Hosts File`
 
 ## Installation
