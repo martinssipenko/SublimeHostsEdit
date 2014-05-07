@@ -1,5 +1,16 @@
 [
     {
+        "caption": "Tools",
+        "id": "tools",
+        "children":
+        [
+            {
+                "command": "open_hosts_file",
+                "caption": "Open Hosts File"
+            }
+        ]
+    },
+    {
         "caption": "Preferences",
         "mnemonic": "n",
         "id": "preferences",

@@ -1,0 +1,23 @@
+{
+    "fileTypes": [
+        "hosts"
+    ], 
+    "name": "Hosts Config", 
+    "patterns": [
+        {
+            "captures": {
+                "1": {
+                    "name": "punctuation.definition.comment.source.hosts-config"
+                }
+            }, 
+            "name": "comment.line.number-sign.source.hosts-config", 
+            "match": "(#).*$\\n?"
+        }, 
+        {
+            "name": "constant.source.hosts-config", 
+            "match": "^[\\d|\\.]+"
+        }
+    ],
+    "scopeName": "source.hosts-config",
+    "uuid": "783C4FE3-EF25-41F2-9AF4-B6094E9927A2"
+}

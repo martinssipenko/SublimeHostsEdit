@@ -1,0 +1,13 @@
+{
+	"name": "Comments",
+	"scope": "source.hosts-config",
+	"settings": {
+		"shellVariables": [
+			{
+				"name": "TM_COMMENT_START",
+				"value": "# "
+			}
+		]
+	},
+	"uuid": "E6CBDBA3-30DC-4EBD-B4DD-2527FBEED52A"
+}
